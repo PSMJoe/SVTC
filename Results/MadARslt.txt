@@ -1,0 +1,1155 @@
+https://runsignup.com/Race/Results/37887#resultSetId-303398;perpage:5000													
+2/26/2022		Mad Anthony Mud Run Results.			"Coyner Springs Park, Waynesboro VA"								
+Place	Bib	Name	Gen	City	State	Country	Clock	Chip	Pace	Age	Age	Div	Division
+							Time	Time			%	Place	
+1	64	L	M	Lyndhurst	VA	US	30:05.3	30:00.9	8:00	17	52.6	1	Male
+		Leorenzo											
+		Callo											
+2	108	J	M	Waynesboro	VA	US	30:56.0	30:47.2	8:13	14	53.6	2	Male
+		Jed											
+		Derrick											
+3	115	J	M	Waynesboro	VA	US	31:07.2	30:58.9	8:16	20	50.5	3	Male
+		Jacob											
+		Dryer											
+4	71	W	M	Covington	VA	US	31:44.0	31:35.6	8:25	30	49.5	4	Male
+		William											
+		Canter											
+5	237	C	M	Alexandria	VA	US	31:43.1	31:39.1	8:26	33	49.7	5	Male
+		Charles											
+		MacDonald											
+6	420	B	M	Mount Sidney	VA	US	32:16.0	32:11.5	8:35	44	52.6	6	Male
+		Ben											
+		Wyrick											
+7	313	S	M	Weyers Cave	VA	US	32:48.3	32:40.1	8:43	20	47.9	7	Male
+		Seth											
+		Ranck											
+8	154	s	M	Staunton	VA	US	33:39.0	33:34.7	8:57	43	50	8	Male
+		steve											
+		Gray											
+9	435	P	M	Bergton	VA	US	34:00.0	33:52.3	9:02	28	46.2	9	Male
+		Philip											
+		Williams											
+10	61	J	M	Staunton	VA	US	34:25.0	34:11.8	9:07	25	45.7	10	Male
+		John											
+		Bussard											
+11	256	K	M	Weyers Cave	VA	US	34:29.5	34:24.7	9:11	27	45.5	11	Male
+		Kenton											
+		Meadows											
+12	301	A	M	Weyers Cave	VA	US	35:04.1	34:59.1	9:20	48	49.9	12	Male
+		Adam											
+		Powell											
+13	407	A	F	Faber	VA	US	35:19.6	35:07.3	9:22	14	54.2	1	Female
+		Anna											
+		White											
+14	335	D	M	Waynesboro	VA	US	35:20.5	35:14.4	9:24	50	50.3	13	Male
+		David											
+		Sawyer											
+15	336	E	M	Mount Sidney	VA	US	35:32.9	35:22.1	9:26	16	45.1	14	Male
+		Eli											
+		Scarborough											
+16	114	E	M	Lynchburg	VA	US	35:27.0	35:22.8	9:26	44	47.8	15	Male
+		Eric											
+		Dragan											
+17	310	K	M	Stuarts Draft	VA	US	35:33.8	35:27.4	9:27	33	44.4	16	Male
+		Keith											
+		Ramsey											
+18	202	Michael	M	Verona	VA	US	35:49.0	35:44.5	9:32	37	44.9	17	Male
+		Killen											
+19	440	T	M				36:16.2	36:08.4	9:38			18	Male
+		Tim											
+		Zawacki											
+20	243	T	M	Charlottesville	VA	US	36:20.0	36:09.7	9:39	48	48.3	19	Male
+		Thomas											
+		Mark											
+21	65	P	M	Lyndhurst	VA	US	37:01.4	36:55.7	9:51	50	48	20	Male
+		Paul											
+		Callo											
+22	302	R	M	Waynesboro	VA	US	37:15.5	37:10.7	9:55	42	44.8	21	Male
+		Roberto											
+		Priani											
+23	148	J	M	Fishersville	VA	US	37:22.0	37:16.8	9:56	54	49.2	22	Male
+		Jeff											
+		Gilligan											
+24	416	A	F	Staunton	VA	US	37:33.5	37:28.6	10:00	31	47.6	2	Female
+		Amanda											
+		Womack											
+25	17	G	F	Waynesboro	VA	US	37:41.6	37:32.2	10:01	14	50.7	3	Female
+		Georgia											
+		Babish											
+26	296	J	M	Fishersville	VA	US	38:08.5	38:01.8	10:08	14	43.4	23	Male
+		John											
+		Pleasants											
+27	175	A	M	Stuarts Draft	VA	US	38:09.9	38:02.2	10:09	28	41.1	24	Male
+		Alex											
+		Heatwole											
+28	340	B	F	Waynesboro	VA	US	38:14.2	38:09.0	10:10	43	49	4	Female
+		Briana											
+		Shelton											
+29	235	K	F	Vesuvius	VA	US	44:29.1	38:22.9	10:14	35	46.8	5	Female
+		Kristen											
+		Long											
+30	343	T	M	Narvon	PA	US	38:43.5	38:25.6	10:15	39	42.4	25	Male
+		Timothy											
+		Shenk											
+31	307	E	M	Staunton	VA	US	38:34.2	38:28.5	10:16	51	46.5	26	Male
+		Eric											
+		Pritchett											
+32	204	J	F	Barboursville	VA	US	38:54.1	38:40.0	10:19	29	46	6	Female
+		Jessica											
+		Kime											
+33	234	B	F	Staunton	VA	US	38:56.6	38:42.7	10:19	14	49.2	7	Female
+		Brook											
+		Loar											
+34	270	B	M	Afton	VA	US	39:17.0	39:04.2	10:25	14	42.3	27	Male
+		Brayden											
+		Murphy											
+35	252	P	M	Crimora	VA	US	39:12.7	39:08.7	10:26	12	44.4	28	Male
+		P.											
+		MCCRAY											
+36	43	L	M	Mineral	VA	US	39:23.6	39:10.4	10:27	15	41.3	29	Male
+		Levi											
+		Bowman											
+37	404	E	M	Broadway	VA	US	39:28.9	39:14.0	10:28	19	39.9	30	Male
+		Evan											
+		Weaver											
+38	97	D	F	Fishersville	VA	US	39:32.4	39:26.7	10:31	62	58.4	8	Female
+		Debbie											
+		Crum											
+39	378	C	F	Charlottesville	VA	US	39:48.0	39:39.1	10:34	36	45.4	9	Female
+		Christie											
+		Taylor											
+40	370	J	M	Charlottesville	VA	US	39:48.5	39:41.1	10:35	39	41.1	31	Male
+		Jason											
+		Stajduhar											
+41	386	M	F	Stuarts Draft	VA	US	39:48.5	39:42.8	10:35	55	53.3	10	Female
+		Michelle											
+		Trayer											
+42	369	E	M	Stuarts Draft	VA	US	39:50.0	39:43.3	10:36	36	40.1	32	Male
+		Eric											
+		Stajduhar											
+43	112	D	M	Waynesboro	VA	US	39:57.2	39:45.9	10:36	33	39.5	33	Male
+		Dean											
+		Dotts											
+44	33	Brock	M	Lyndhurst	VA	US	40:10.0	40:05.8	10:42	57	46.9	34	Male
+		Bierman											
+45	136	B	M	Staunton	VA	US	40:16.2	40:06.3	10:42	37	40	35	Male
+		Brian											
+		Fitzgerald											
+46	399	D	M	Fishersville	VA	US	40:25.1	40:17.9	10:45	14	41	36	Male
+		Davis											
+		Waite											
+47	18	I	M	Staunton	VA	US	40:26.3	40:18.0	10:45	41	41	37	Male
+		Isaac											
+		Bagley											
+48	309	M	M	Lyndhurst	VA	US	40:50.3	40:39.7	10:51	43	41.3	38	Male
+		Max											
+		Quillen											
+49	427	A	M	White Stone	VA	US	40:54.4	40:48.1	10:53	28	38.3	39	Male
+		Alexander											
+		Brent Gilmore											
+50	21	J	M	Harrisonburg	VA	US	41:02.9	40:56.4	10:55	30	38.2	40	Male
+		Jairus											
+		Baker											
+51	266	T	F	Martinsville	VA	US	47:30.7	41:25.5	11:03	29	43	11	Female
+		Tiffany											
+		Morton											
+52	286	M	M	Scottsville	VA	US	47:34.8	41:25.6	11:03	43	40.5	41	Male
+		Mitchell											
+		Pace											
+53	332	Kim	F	Staunton	VA	US	41:40.9	41:27.8	11:03	40	44.2	12	Female
+		Sain											
+54	267	E	M	Verona	VA	US	47:43.2	41:29.2	11:04	57	45.3	42	Male
+		Eddie											
+		Moyer											
+55	390	S	M	Greenville	VA	US	41:41.8	41:29.3	11:04	40	39.6	43	Male
+		Silas											
+		Valentine											
+56	264	A	M	Verona	VA	US	41:36.0	41:32.8	11:05	34	38	44	Male
+		Anthony											
+		Morton											
+57	432	A	F	Staunton	VA	US	41:44.2	41:35.4	11:05	18	43	13	Female
+		Abigail											
+		Bang											
+58	419	W	M	Fishersville	VA	US	41:55.9	41:42.1	11:07	15	38.8	45	Male
+		Will											
+		Wright											
+59	312	I	M	Weyers Cave	VA	US	41:52.9	41:44.0	11:08	13	40.5	46	Male
+		Isaac											
+		Ranck											
+60	418	J	M	Fishersville	VA	US	42:22.2	42:08.2	11:14	48	41.4	47	Male
+		Joey											
+		Wright											
+61	311	P	F	Stuarts Draft	VA	US	42:16.9	42:10.0	11:15	33	42.4	14	Female
+		Pam											
+		Ramsey											
+62	107	K	F	Waynesboro	VA	US	42:37.7	42:31.4	11:20	38	42.7	15	Female
+		Katie											
+		Densberger											
+63	363	L	M	Harrisonburg	VA	US	42:44.5	42:35.7	11:22	15	38	48	Male
+		Lee											
+		Smith											
+64	428	G	M	Stanardsville	VA	US	43:03.6	42:45.6	11:24	58	44.3	49	Male
+		Greg											
+		Prior											
+65	184	M	M	Stanardsville	VA	US	43:04.1	42:46.8	11:24	54	42.9	50	Male
+		Matt											
+		Hodges											
+66	374	E	F	Crimora	VA	US	49:06.5	42:54.6	11:27	12	46.3	16	Female
+		E.											
+		Stone											
+67	342	J	M	Harrisonburg	VA	US	43:27.7	43:10.7	11:31	64	46.3	51	Male
+		Jacob											
+		Shenk											
+68	48	R	M	Weyers Cave	VA	US	43:47.0	43:35.8	11:38	47	39.7	52	Male
+		Ryan											
+		Braziel											
+69	195	B	M	Charlottesville	VA	US	50:13.8	44:08.8	11:46	43	38	53	Male
+		Brian											
+		Johns											
+70	38	C	F	Waynesboro	VA	US	50:26.8	44:09.0	11:46	15	42.4	17	Female
+		Cadence											
+		Boucher											
+71	190	D	M	Waynesboro	VA	US	50:27.3	44:10.1	11:47	35	35.9	54	Male
+		David											
+		Hughes											
+72	279	m	F	Verona	VA	US	44:25.1	44:20.3	11:49	14	43	18	Female
+		molly											
+		o'brien											
+73	54	A	F	Verona	VA	US	44:25.3	44:21.1	11:50	13	43.8	19	Female
+		Avery											
+		Brown											
+74	182	D	M	Weyers Cave	VA	US	44:30.5	44:24.7	11:51	39	36.7	55	Male
+		David											
+		Hobbs											
+75	26	P	M	Fishersville	VA	US	44:57.3	44:45.6	11:56	37	35.9	56	Male
+		Phillip											
+		Bartley											
+76	341	C	F	Rockingham	VA	US	45:03.2	44:45.8	11:56	38	40.6	20	Female
+		Crystal											
+		Shenk											
+77	28	J	M	Greenville	NC	US	45:04.1	44:52.2	11:58	44	37.7	57	Male
+		John											
+		Baumgartner											
+78	257	D	M	Fishersville	VA	US	44:59.5	44:53.7	11:58	52	40.2	58	Male
+		David											
+		Meeks											
+79	388	S	F	Mount Sidney	VA	US	45:15.5	44:59.0	12:00	47	43	21	Female
+		Shawn											
+		Tucker											
+80	144	K	F	Kents Store	VA	US	45:18.4	45:09.9	12:03	46	42.5	22	Female
+		Krista											
+		Frazier											
+81	239	A	M	Weyers Cave	VA	US	45:22.7	45:15.8	12:04	58	41.9	59	Male
+		Andrew											
+		Mackenzie											
+82	408	S	F	Huddleston	VA	US	45:47.0	45:33.5	12:09	33	39.2	23	Female
+		Savannah											
+		Wilber											
+83	163	H	M	KESWICK	VA	US	45:50.7	45:36.2	12:10	75	49.9	60	Male
+		HERB											
+		HARBACK											
+84	375	H	M	Fishersville	VA	US	45:44.0	45:36.5	12:10	35	34.8	61	Male
+		Hunter											
+		Sumner											
+85	113	M	M	Virginia Beach	VA	US	46:00.4	45:42.1	12:11	52	39.5	62	Male
+		Mike											
+		Dozier											
+86	216	C	M	Chester	VA	US	46:16.4	46:04.4	12:17	37	34.9	63	Male
+		Cory											
+		Lapastora											
+87	217	E	F	Chester	VA	US	46:16.5	46:04.7	12:17	36	39.1	24	Female
+		Emily											
+		Lapastora											
+88	166	S	M	Waynesboro	VA	US	52:18.1	46:05.0	12:17	12	37.7	64	Male
+		S.											
+		Harman											
+89	3	G	F	Staunton	VA	US	46:21.3	46:06.4	12:18	54	45.3	25	Female
+		Gayle											
+		Alderfer Fisher											
+90	157	F	M	Glen Allen	VA	US	57:37.4	46:11.8	12:19	51	38.7	65	Male
+		Fred											
+		Groves											
+91	50	D	M	Waynesboro	VA	US	46:22.6	46:13.4	12:20	24	33.8	66	Male
+		Daniel											
+		Brooks											
+92	200	T	F	Waynesboro	VA	US	46:25.0	46:14.9	12:20	24	38.5	26	Female
+		Tess											
+		Kendrick											
+93	244	G	M	Staunton	VA	US	46:32.2	46:17.0	12:21	60	41.7	67	Male
+		Gary											
+		Marshall											
+94	109	K	M	California	MD	US	52:52.0	46:27.1	12:23	53	39.1	68	Male
+		Kyle											
+		Dewar											
+95	118	L	F	Stuarts Draft	VA	US	52:47.4	46:36.8	12:26	25	38.2	27	Female
+		Libby											
+		Dukes											
+96	117	J	M	Stuarts Draft	VA	US	52:48.5	46:38.1	12:26	26	33.5	69	Male
+		John											
+		Dukes											
+97	194	R	F	Clovis	NM	US	47:02.3	46:51.6	12:30	34	38.2	28	Female
+		Rebecca											
+		Jack											
+98	46	Z	M	Mineral	VA	US	47:05.8	46:52.0	12:30	19	33.4	70	Male
+		Zion											
+		Bowman											
+99	52	M	M	Waynesboro	VA	US	47:07.1	46:57.0	12:31	66	43.4	71	Male
+		Mark											
+		Brooks											
+100	231	D	M	Staunton	VA	US	53:02.7	46:57.1	12:31	37	34.2	72	Male
+		David											
+		Lingenfelter											
+101	23	T	M	Fishersville	VA	US	47:23.2	47:11.5	12:35	43	35.6	73	Male
+		Tim											
+		Baker											
+102	360	K	M	Waynesboro	VA	US	53:30.0	47:12.8	12:35	51	37.9	74	Male
+		Kenneth											
+		Slack											
+103	368	C	M	Waynesboro	VA	US	47:31.3	47:14.7	12:36	31	33.1	75	Male
+		Corey											
+		Snyder											
+104	220	E	M	Staunton	VA	US	47:35.4	47:16.7	12:36	65	42.7	76	Male
+		Eric											
+		Laser											
+105	169	J	M	Charlottesville	VA	US	53:45.3	47:29.5	12:40	50	37.3	77	Male
+		James											
+		Harris											
+106	189	W	M	Stafford	VA	US	53:50.7	47:42.9	12:43	52	37.8	78	Male
+		William											
+		Hoyt											
+107	292	C	M	Mechanicsville	VA	US	59:12.6	47:46.6	12:44	50	37.1	79	Male
+		Chip											
+		Petty											
+108	389	L	F	Waynesboro	VA	US	54:03.5	47:58.5	12:48	36	37.5	29	Female
+		Laurie Beth											
+		Tygert											
+109	183	E	F	Weyers Cave	VA	US	54:14.4	48:02.2	12:49	12	41.4	30	Female
+		E.											
+		Hobbs											
+110	349	E	F	Orange	VA	US	54:20.0	48:04.1	12:49	21	37	31	Female
+		Erin											
+		Singleton											
+111	10	J	F	Centreville	VA	US	48:25.9	48:16.5	12:52	40	38	32	Female
+		Jennifer											
+		An											
+112	9	B	M	Centreville	VA	US	48:26.4	48:16.8	12:52	39	33.8	80	Male
+		Brian											
+		An											
+113	34	A	F	Waynesboro	VA	US	54:29.0	48:22.3	12:54	27	36.8	33	Female
+		Annaliese											
+		Black											
+114	35	T	M	Waynesboro	VA	US	54:30.9	48:24.1	12:54	30	32.3	81	Male
+		Tyler											
+		Black											
+115	98	T	F	WEYERS CAVE	VA	US	54:44.8	48:33.2	12:57	13	40	34	Female
+		Taylor											
+		Cubbage											
+116	179	A	M	Richmond	VA	US	54:49.5	48:38.0	12:58	62	40.4	82	Male
+		Andrew											
+		Hersey											
+117	421	T	F	Bridgewater	VA	US	49:00.1	48:41.8	12:59	41	37.9	35	Female
+		Tara											
+		Wyrick											
+118	73	J	M	Staunton	VA	US	54:54.7	48:46.8	13:00	43	34.4	83	Male
+		Jonathan											
+		Carroll											
+119	326	K	M	Charlottesville	VA	US	55:12.4	48:56.1	13:03	49	36	84	Male
+		Kevin											
+		Rogers											
+120	425	F	M	Charlottesville	VA	US	55:12.8	48:56.4	13:03	55	37.8	85	Male
+		Frank											
+		Pohl											
+121	406	O	F	Sparks Glencoe	MD	US	49:15.6	48:56.8	13:03	32	36.4	36	Female
+		Olivia											
+		Welsh											
+122	168	M	M	Baltimore	MD	US	49:15.0	48:57.2	13:03	39	33.3	86	Male
+		Matthew											
+		Harrell											
+123	78	C	M	Washington	DC	US	55:28.3	49:02.9	13:05	39	33.2	87	Male
+		C.E.											
+		Chapin											
+124	381	T	M	Harrisonburg	VA	US	55:27.2	49:21.1	13:10	26	31.7	88	Male
+		Thomas											
+		Templeton											
+125	75	C	M	Fishersville	VA	US	49:34.1	49:25.3	13:11	35	32.1	89	Male
+		Chris											
+		Cary											
+126	76	J	F	Fishersville	VA	US	49:34.1	49:25.6	13:11	36	36.4	37	Female
+		Jennifer											
+		Cary											
+127	260	J	F	Harrisonburg	VA	US	55:37.9	49:32.1	13:13	25	35.9	38	Female
+		Jordan											
+		Mills											
+128	228	J	F	McGaheysville	VA	US	55:51.6	49:35.2	13:13	49	39.9	39	Female
+		Jolie											
+		Lewis											
+129	193	D	M	Staunton	VA	US	56:00.3	49:51.1	13:18	59	38.4	90	Male
+		Dave											
+		Irvin											
+130	29	A	F	Harrisonburg	VA	US	50:00.4	49:51.2	13:18	16	36.9	40	Female
+		Aamieya											
+		Beauzieux											
+131	196	M	F	Buena Vista	VA	US	56:11.2	49:57.2	13:19	21	35.6	41	Female
+		Mary-Kate											
+		Johnson											
+132	379	M	F	Brightwood	VA	US	56:13.5	49:58.6	13:20	21	35.6	42	Female
+		Makayla											
+		Taylor											
+133	367	H	F	Elkton	VA	US	50:05.9	49:58.8	13:20	46	38.4	43	Female
+		Heather											
+		Snow											
+134	87	A	F	Staunton	VA	US	50:08.0	50:00.5	13:20	39	36.5	44	Female
+		Amelia											
+		Coltrane											
+135	304	R	M	Boones Mill	VA	US	56:16.6	50:01.1	13:20	20	31.3	91	Male
+		Ryan											
+		Price											
+136	316	K	F	Buena Vista	VA	US	56:15.8	50:01.8	13:20	23	35.6	45	Female
+		Kelsey											
+		Ray											
+137	44	S	F	Charlottesville	VA	US	50:13.3	50:06.9	13:22	35	35.8	46	Female
+		Stella											
+		Bowman											
+138	380	S	M	Waynesboro	VA	US	50:26.4	50:07.6	13:22	49	35.1	92	Male
+		Scott											
+		Taylor											
+139	129	L	F	Bridgewater	VA	US	50:19.2	50:14.0	13:24	14	37.9	47	Female
+		Lillian											
+		Elsea											
+140	265	M	F	Verona	VA	US	50:20.4	50:15.9	13:24	13	38.7	48	Female
+		McKinley											
+		Morton											
+141	322	T	M	Waynesboro	VA	US	50:30.5	50:24.4	13:27	40	32.6	93	Male
+		Timmy											
+		Roadcap											
+142	337	A	M			US	50:52.9	50:39.7	13:31	50	35	94	Male
+		Anonymous											
+		Participant											
+143	254	H	F	Richmond	VA	US	50:53.5	50:40.0	13:31	40	36.2	49	Female
+		Heather											
+		Mcinturff											
+144	160	A	F	Mount Sidney	VA	US	51:03.6	50:52.6	13:34	16	36.1	50	Female
+		Addison											
+		Hammond											
+145	161	B	M	Mount Sidney	VA	US	51:04.4	50:53.4	13:34	49	34.6	95	Male
+		Bo											
+		Hammond											
+146	429	C	F	Waynesboro	VA	US	57:15.9	50:55.4	13:35	12	39	51	Female
+		C.											
+		Ward											
+147	430	E	F	Waynesboro	VA	US	57:16.5	50:56.4	13:35	12	39	52	Female
+		E.											
+		Ward											
+148	242	A	F	Waynesboro	VA	US	51:13.7	51:06.6	13:38	38	35.5	53	Female
+		Anna											
+		Manikus											
+149	258	K	M	Ashland	VA	US	57:27.7	51:14.5	13:40	45	33.3	96	Male
+		Kenny											
+		Megginson											
+150	303	A	M	Boones Mill	VA	US	57:37.3	51:21.4	13:42	23	30.5	97	Male
+		Austin											
+		Price											
+151	49	C	F	Waynesboro	VA	US	51:35.1	51:25.0	13:43	27	34.6	54	Female
+		Claire											
+		Brooks											
+152	51	G	F	Waynesboro	VA	US	51:36.5	51:26.5	13:43	24	34.6	55	Female
+		Grace											
+		Brooks											
+153	285	J	M	Waynesboro	VA	US	51:53.2	51:39.1	13:46	13	32.7	98	Male
+		Joseph											
+		Oxford											
+154	238	B	F	Waynesboro	VA	US	51:50.8	51:39.5	13:47	45	36.8	56	Female
+		Bernadette											
+		Mack											
+155	297	J	M	Middlebrook	VA	US	51:56.2	51:40.3	13:47	60	37.3	99	Male
+		Jeff											
+		Pletcher											
+156	212	J	M	Waynesboro	VA	US	51:52.3	51:41.6	13:47	59	37	100	Male
+		Jim											
+		Lagrua											
+157	284	G	M	Waynesboro	VA	US	51:51.6	51:51.6	13:50	44	32.6	101	Male
+		Gene											
+		Oxford											
+158	42	G	M	Mineral	VA	US	52:05.7	51:53.3	13:50	41	31.9	102	Male
+		Gabriel											
+		Bowman											
+159	350	K	F	Orange	VA	US	58:17.8	52:01.5	13:52	23	34.2	57	Female
+		Katrina											
+		Singleton											
+160	250	V	F	Staunton	VA	US	58:09.3	52:03.2	13:53	44	36.2	58	Female
+		Violet											
+		McCallum											
+161	8	M	M	Fredericksburg	VA	US	52:10.7	52:03.2	13:53	33	30.2	103	Male
+		Matthew											
+		Allen											
+162	227	R	M	Waynesboro	VA	US	58:40.0	52:26.7	13:59	32	29.9	104	Male
+		Ryan											
+		Lepsch											
+163	39	R	M	Spotsylvania	VA	US	52:33.4	52:27.3	13:59	62	37.5	105	Male
+		Rich											
+		Bovone											
+164	147	D	F	Charlottesville	VA	US	52:51.2	52:34.7	14:01	64	44.9	59	Female
+		Debra Lynne											
+		Gilbert											
+165	366	Z	M	Charlottesville	VA	US	58:57.5	52:39.7	14:03	33	29.9	106	Male
+		Zach											
+		Smith											
+166	4	P	M	Brandon	MS	US	58:58.0	52:40.2	14:03	51	34	107	Male
+		Paul											
+		Aldridge											
+167	218	G	M	Alexandria	VA	US	52:57.0	52:40.6	14:03	44	32.1	108	Male
+		Greg											
+		LaPorta											
+168	321	M	M	Waynesboro	VA	US	52:52.3	52:40.6	14:03	35	30.1	109	Male
+		Matthew											
+		Rider											
+169	165	J	M	Waynesboro	VA	US	58:59.5	52:46.8	14:04	50	33.6	110	Male
+		Jeryl											
+		Harman											
+170	138	T	M	Stuarts Draft	VA	US	59:00.5	52:47.9	14:05	58	35.9	111	Male
+		Tim											
+		Fitzgerald											
+171	403	G	M	Palmyra	VA	US	59:14.2	53:02.6	14:09	43	31.6	112	Male
+		Greg											
+		Weathersbee											
+172	401	C	F	Powhatan	VA	US	59:13.7	53:02.7	14:09	38	34.2	60	Female
+		Christa											
+		Warren											
+173	413	A	M	Palmyra	VA	US	59:14.2	53:03.0	14:09	55	34.9	113	Male
+		Andy											
+		Wilson											
+174	298	B	F	Chatham	VA	US	59:21.0	53:03.0	14:09	28	33.6	61	Female
+		Britne											
+		Podruchny											
+175	384	S	F	Chatham	VA	US	59:21.0	53:03.4	14:09	30	33.6	62	Female
+		Suzanne											
+		Toluba											
+176	31	A	F			US	53:25.3	53:12.6	14:11	40	34.5	63	Female
+		Anonymous											
+		Participant											
+177	395	R	M	Bluff City	TN	US	59:33.0	53:17.1	14:13	56	35	114	Male
+		Richard											
+		Vines											
+178	126	C	F	Waynesboro	VA	US	59:31.6	53:19.4	14:13	38	34.1	64	Female
+		Casey											
+		Eldridge											
+179	149	S	M	Crozet	VA	US	53:44.9	53:28.4	14:16	52	33.7	115	Male
+		Stephen											
+		Goadhouse											
+180	40	E	F	Fishersville	VA	US	53:43.9	53:37.0	14:18	38	33.9	65	Female
+		Erika											
+		Bowling											
+181	174	Z	M	Fishersville	VA	US	53:48.7	53:37.0	14:18	35	29.6	116	Male
+		Zeb											
+		Hays											
+182	276	J	M	CHARLOTTESVILLE	VA	US	53:55.2	53:37.4	14:18	36	29.7	117	Male
+		Justin											
+		Newberry											
+183	275	A	F	CHARLOTTESVILLE	VA	US	53:55.9	53:38.2	14:18	36	33.6	66	Female
+		Ashlie											
+		Newberry											
+184	180	S	F	Bridgewater	VA	US	00:13.9	54:03.8	14:25	44	34.9	67	Female
+		Stephanie											
+		Higgs											
+185	178	Karen	F	Bridgewater	VA	US	00:14.2	54:03.9	14:25	42	34.4	68	Female
+		Herrell											
+186	25	J	M	Swoope	VA	US	00:19.3	54:06.6	14:26	41	30.6	118	Male
+		Justin											
+		Barss											
+187	24	B	F	Swoope	VA	US	00:19.8	54:07.4	14:26	47	35.8	69	Female
+		Barbara											
+		Barss											
+188	328	B	M	Hampton	VA	US	54:25.3	54:10.3	14:27	42	30.8	119	Male
+		Brian											
+		Rowland											
+189	101	A	M	Staunton	VA	US	00:27.7	54:15.6	14:28	44	31.2	120	Male
+		Aaron											
+		Danner											
+190	102	J	F	Staunton	VA	US	00:27.8	54:15.8	14:28	42	34.2	70	Female
+		Josie											
+		Danner											
+191	357	R	M	Keezletown	VA	US	05:51.9	54:22.1	14:30	15	29.8	121	Male
+		Roe											
+		Skaflen											
+192	121	C	M	Waynesboro	VA	US	05:51.4	54:22.4	14:30	12	32	122	Male
+		C.											
+		eccles											
+193	262	R	M	Stuarts Draft	VA	US	00:53.1	54:30.9	14:32	38	29.7	123	Male
+		Ross											
+		Morland											
+194	63	M	M	Waynesboro	VA	US	00:53.2	54:31.2	14:32	41	30.3	124	Male
+		Matthew											
+		Caldwell											
+195	329	R	F	Hampton	VA	US	54:49.1	54:33.8	14:33	37	33.2	71	Female
+		Rebecca											
+		Rowland											
+196	170	T	M	Lynchburg	VA	US	54:51.6	54:38.7	14:34	33	28.8	125	Male
+		Tyran											
+		Harris											
+197	16	S	M	Ashburn	VA	US	55:11.2	54:59.8	14:40	60	35.1	126	Male
+		STEPHEN											
+		AUSTIN											
+198	299	E	F	Crozet	VA	US	01:36.6	55:17.4	14:45	47	35	72	Female
+		Elizabeth											
+		Poole											
+199	300	M	M	Crozet	VA	US	01:37.0	55:17.8	14:45	47	31.3	127	Male
+		Michael											
+		Poole											
+200	74	J	M	inwood	WV	US	01:57.2	55:44.2	14:52	56	33.5	128	Male
+		John											
+		Carter											
+201	213	J	F	Elkton	VA	US	02:10.1	55:51.5	14:54	26	31.9	73	Female
+		Jessica											
+		Lam											
+202	214	M	F	Elkton	VA	US	02:17.8	55:59.5	14:56	50	35.7	74	Female
+		Melissa											
+		Lam											
+203	441	B	F	Stuarts Draft	VA	US	02:47.3	56:23.5	15:02	30	31.6	75	Female
+		Blair											
+		McDonough											
+204	215	B	F	Stuarts Draft	VA	US	02:48.0	56:23.7	15:02	31	31.6	76	Female
+		Bridget											
+		Lane											
+205	172	B	M	Waynesboro	VA	US	02:58.7	56:34.2	15:05	53	32.1	129	Male
+		Brett											
+		Hayes											
+206	282	B	M	Waynesboro	VA	US	03:13.1	56:49.1	15:09	37	28.3	130	Male
+		Barrett											
+		Owen											
+207	283	N	F	Waynesboro	VA	US	03:13.0	56:49.2	15:09	36	31.7	77	Female
+		Noelle											
+		Owen											
+208	287	S	F	Waynesboro	VA	US	03:09.4	56:57.2	15:11	30	31.3	78	Female
+		Stephanie											
+		Painter											
+209	150	S	F	Mount Sidney	VA	US	03:25.5	57:13.9	15:16	13	34	79	Female
+		Senya											
+		Gomez											
+210	139	S	F	Sterling	VA	US	57:32.1	57:15.4	15:16	60	39.2	80	Female
+		Sarah											
+		Fletcher											
+211	320	K	F	Harrisonburg	VA	US	08:42.1	57:15.9	15:16	41	32.2	81	Female
+		Kristy											
+		Rhea											
+212	434	K	M	Waynesboro	VA	US	08:43.2	57:21.3	15:18	51	31.2	131	Male
+		Karl											
+		Kennedy											
+213	55	C	M	Verona	VA	US	57:37.1	57:28.1	15:20	46	29.9	132	Male
+		Chris											
+		Brown											
+214	56	K	F	Verona	VA	US	57:38.2	57:30.2	15:20	47	33.7	82	Female
+		Kate											
+		Brown											
+215	59	H	F	Lexington	VA	US	03:58.1	57:44.0	15:24	21	30.8	83	Female
+		Hannah											
+		Buren											
+216	199	K	F	Staunton	VA	US	03:58.5	57:44.2	15:24	22	30.8	84	Female
+		Kristy											
+		Kelley											
+217	281	M	F	Staunton	VA	US	03:59.9	57:45.7	15:24	21	30.8	85	Female
+		Maggie											
+		Olshove											
+218	415	G	F	Staunton	VA	US	03:59.9	57:46.0	15:24	32	30.9	86	Female
+		Gail											
+		Winsor											
+219	331	D	M	Fort Eustis	VA	US	09:36.8	58:10.1	15:31	38	27.8	133	Male
+		Donny											
+		Ryals Jr											
+220	241	E	M	Fort Eustis	VA	US	09:37.3	58:10.9	15:31	38	27.8	134	Male
+		Edgardo											
+		Malave											
+221	22	L	F	Charlottesville	VA	US	09:44.4	58:16.2	15:32	28	30.6	87	Female
+		Lily											
+		Baker											
+222	385	C	M	North Garden	VA	US	09:44.7	58:16.4	15:32	24	26.8	135	Male
+		Chris											
+		Tomley											
+223	268	T	F	Harrisonburg	VA	US	09:37.8	58:17.0	15:33	31	30.6	88	Female
+		Tracy											
+		Moyers											
+224	104	P	M	Randolph	NJ	US	58:31.9	58:19.6	15:33	43	28.8	136	Male
+		Phil											
+		DeConto											
+225	151	i	M	Hendersonville	NC	US	04:59.0	58:33.6	15:37	41	28.2	137	Male
+		ivan											
+		gowe											
+226	405	J	M	Broadway	VA	US	09:59.7	58:35.5	15:37	51	30.5	138	Male
+		John											
+		Weaver											
+227	392	L	M	Waynesboro	VA	US	04:48.9	58:40.5	15:39	76	39.5	139	Male
+		Larry											
+		Vardaman											
+228	105	E	F	Waynesboro	VA	US	04:49.7	58:41.7	15:39	33	30.4	89	Female
+		Erica											
+		Deluhery											
+229	291	M	F	Stuarts Draft	VA	US	04:50.3	58:42.3	15:39	36	30.7	90	Female
+		MacKenzie											
+		Pettrey											
+230	203	E	F	Charlottesville	VA	US	05:09.1	58:50.1	15:41	36	30.6	91	Female
+		Emily											
+		Kilroy											
+231	120	A	F	Waynesboro	VA	US	04:58.9	58:51.0	15:42	32	30.3	92	Female
+		Ashley											
+		Easter											
+232	176	Trevor	M	Charlottesville	VA	US	05:09.6	58:53.7	15:42	55	31.4	140	Male
+		Henry											
+233	278	C	F	Stuarts Draft	VA	US	10:47.8	59:23.4	15:50	25	30	93	Female
+		Crystel											
+		Noel											
+234	141	S	F	Stuarts Draft	VA	US	05:45.2	59:23.5	15:50	37	30.5	94	Female
+		Sheree											
+		Flippin											
+235	140	C	M	Stuarts Draft	VA	US	05:45.1	59:23.5	15:50	37	27	141	Male
+		Casey											
+		Flippin											
+236	280	M	F	Inwood	WV	US	05:35.7	59:27.7	15:51	50	33.6	95	Female
+		Melissa											
+		Ochoa											
+237	338	T	M	Quicksburg	VA	US	05:36.1	59:28.0	15:51	25	26.3	142	Male
+		Timothy											
+		Segreti											
+238	249	A	F	Waynesboro	VA	US	05:48.0	59:40.1	15:55	55	35.5	96	Female
+		Anna											
+		McAllister											
+239	361	E	F	Waynesboro	VA	US	05:48.0	59:40.7	15:55	56	35.8	97	Female
+		Ellen											
+		Slusarczyk											
+240	143	J	F	Fishersville	VA	US	59:53.9	59:46.8	15:56	36	30.1	98	Female
+		Jessica											
+		Forrand											
+241	57	P	M	Stuarts Draft	VA	US	11:23.2	59:56.7	15:59	12	29	143	Male
+		P.											
+		Brown											
+242	53	A	M	Stuarts Draft	VA	US	11:26.3	59:59.6	16:00	34	26.3	144	Male
+		Anthony											
+		Brown											
+243	247	K	F	Stuarts Draft	VA	US	06:23.0	00:00.1	16:00	37	30.1	99	Female
+		Kristina											
+		Martin											
+244	246	J	M	Stuarts Draft	VA	US	06:24.1	00:01.9	16:00	38	26.9	145	Male
+		Jason											
+		Martin											
+245	261	O	M	Verona	VA	US	00:24.9	00:10.5	16:03	31	26	146	Male
+		Oscar											
+		Moreno											
+246	164	D	M	Charlottesville	VA	US	06:39.1	00:19.5	16:05	62	32.6	147	Male
+		David											
+		Harding											
+247	439	P	M	Mount Crawford	VA	US	11:55.5	00:25.0	16:07	46	28.4	148	Male
+		Peter											
+		Williams											
+248	371	J	M	Charlottesville	VA	US	07:05.5	00:44.8	16:12	32	25.8	149	Male
+		Jan-Willem											
+		Steeb											
+249	382	A	M	Charlottesville	VA	US	07:06.4	00:46.2	16:12	99	110.3	150	Male
+		Andrew											
+		Thomas											
+250	319	J	M	Pulaski	VA	US	01:13.1	00:57.8	16:15	31	25.7	151	Male
+		Justin											
+		Repass											
+251	185	J	M	Orange	VA	US	07:19.2	00:58.4	16:16	41	27.1	152	Male
+		Joshua											
+		Hoskins											
+252	422	B	M	Stuarts Draft	VA	US	07:22.8	01:00.1	16:16	36	26.1	153	Male
+		Brett											
+		Yancey											
+253	130	E	M	Waynesboro	VA	US	01:14.8	01:00.3	16:16	31	25.7	154	Male
+		Eric											
+		Farris											
+254	423	E	F	Stuarts Draft	VA	US	07:23.3	01:01.3	16:16	32	29.2	100	Female
+		Erin											
+		Yancey											
+255	156	P	F	Afton	VA	US	01:12.3	01:02.8	16:17	50	32.7	101	Female
+		Pam											
+		Greenwood											
+256	91	R	F	Stuarts Draft	VA	US	07:59.1	01:38.1	16:26	13	31.5	102	Female
+		Rory											
+		Cooper											
+257	206	J	F	Greenville	VA	US	07:44.7	01:38.7	16:26	25	28.9	103	Female
+		Jennifer											
+		Kiser											
+258	60	M	F	Staunton	VA	US	07:45.2	01:39.0	16:26	25	28.9	104	Female
+		Mekayla											
+		Burgdorf											
+259	171	Katelyn	F	Bridgewater	VA	US	08:00.1	01:44.8	16:28	27	28.8	105	Female
+		Haupt											
+260	397	B	F	Forest	VA	US	08:00.9	01:45.9	16:28	33	28.9	106	Female
+		Blair											
+		Wade											
+261	47	B	M	Grottoes	VA	US	08:25.8	02:16.1	16:36	24	25.1	155	Male
+		Blake											
+		Boyers											
+262	70	D	F	Waynesboro	VA	US	08:26.3	02:16.5	16:36	33	28.7	107	Female
+		Danielle											
+		Canévet											
+263	62	A	F	Waynesboro	VA	US	14:05.8	02:36.9	16:42	35	28.7	108	Female
+		Amanda											
+		Cadle											
+264	354	K	F	Keezletown	VA	US	14:08.5	02:40.0	16:43	15	29.9	109	Female
+		Katherine											
+		Skaflen											
+265	208	C	F	Staunton	VA	US	09:09.1	03:02.3	16:49	44	29.9	110	Female
+		Christy											
+		Knopp											
+266	339	J	F	Mount Sidney	VA	US	09:09.6	03:02.7	16:49	58	34.8	111	Female
+		Jackie											
+		Sheets											
+267	187	M	F	Waynesboro	VA	US	09:15.5	03:04.4	16:49	50	31.7	112	Female
+		Melissa											
+		Hostetter											
+268	188	S	M	Waynesboro	VA	US	09:16.3	03:05.7	16:50	55	29.3	156	Male
+		Samuel											
+		Hostetter											
+269	30	Z	F	Waynesboro	VA	US	09:33.9	03:12.4	16:51	34	28.3	113	Female
+		Zoë											
+		Berg											
+270	277	A	F	Waynesboro	VA	US	09:34.2	03:12.5	16:51	37	28.6	114	Female
+		Alisha											
+		Nix											
+271	387	B	F	Staunton	VA	US	09:32.8	03:24.2	16:54	33	28.2	115	Female
+		Brittany											
+		Truxell											
+272	273	C	M	McGaheysville	VA	US	09:54.0	03:36.6	16:58	33	24.7	157	Male
+		Charles											
+		Nesler											
+273	66	A	M	Lyndhurst	VA	US	09:58.3	03:40.1	16:59	35	24.9	158	Male
+		Adam											
+		Campbell											
+274	274	W	M	Fredericksburg	VA	US	10:08.2	03:50.3	17:01	56	29.2	159	Male
+		William											
+		Nesler											
+275	352	F	M	Chesterfield	VA	US	10:26.4	04:01.6	17:04	57	29.4	160	Male
+		Frank											
+		Sisk											
+276	305	S	M	Boones Mill	VA	US	10:22.3	04:07.0	17:06	57	29.3	161	Male
+		Steve											
+		Price											
+277	7	M	F	Riverside	CA	US	04:30.6	04:15.2	17:08	33	27.8	116	Female
+		Marissa											
+		Allen											
+278	5	D	M	Riverside	CA	US	04:31.2	04:15.7	17:08	37	25	162	Male
+		David											
+		Allen											
+279	90	Nancy	F	Stuarts draft	VA	US	11:06.5	04:45.6	17:16	36	27.8	117	Female
+		Cooper											
+280	414	M	M	Fishersville	VA	US	11:17.3	04:56.4	17:19	55	28.5	163	Male
+		Mark											
+		Wilson											
+281	232	M	M	Winchester	VA	US	11:08.7	05:00.2	17:20	52	27.8	164	Male
+		Michael											
+		Link											
+282	128	H	M	Bridgewater	VA	US	11:24.1	05:04.6	17:21	38	24.9	165	Male
+		Henry											
+		Elsea											
+283	83	G	F	Dudley	NC	US	12:11.1	05:57.8	17:35	27	27	118	Female
+		Grace											
+		Cochran											
+284	82	A	F	Dudley	NC	US	12:13.0	05:59.6	17:36	23	27	119	Female
+		Alice											
+		Cochran											
+285	85	R	F	Staunton	VA	US	12:13.7	06:00.6	17:36	40	27.8	120	Female
+		Rebecca											
+		Cochran											
+286	84	K	M	Staunton	VA	US	12:14.1	06:01.4	17:36	53	27.5	166	Male
+		Kevin											
+		Cochran											
+287	315	R	F	Waynesboro	VA	US	12:23.3	06:04.3	17:37	27	26.9	121	Female
+		Rachael											
+		Ravenscroft											
+288	99	K	F	Stuarts Draft	VA	US	12:25.0	06:06.4	17:38	29	26.9	122	Female
+		Kristen											
+		D'Allura											
+289	344	B	M	Broadway	VA	US	06:14.7	06:06.9	17:38	47	26.2	167	Male
+		Brian											
+		Shepard											
+290	372	A	F	Waynesboro	VA	US	12:30.8	06:11.3	17:39	34	27.1	123	Female
+		Ashley											
+		Stevens											
+291	255	L	F	Staunton	VA	US	12:32.7	06:14.5	17:40	37	27.3	124	Female
+		Lesley											
+		McLain											
+292	398	S	F	Stuarts Draft	VA	US	12:56.1	06:47.8	17:49	37	27.1	125	Female
+		Shannon											
+		Wagner											
+293	240	K	F	Stuarts Draft	VA	US	12:55.8	06:47.9	17:49	45	28.5	126	Female
+		Kimberly											
+		Mahon											
+294	32	D	F	Staunton	VA	US	13:11.7	06:52.1	17:50	55	31.6	127	Female
+		Debbie											
+		Berry											
+295	411	N	M	Waynesboro	VA	US	13:17.1	06:53.3	17:50	12	26	168	Male
+		N.											
+		Wilfong											
+296	142	J	F	Manassas	VA	US	13:31.2	07:09.2	17:54	25	26.5	128	Female
+		Jaslyn											
+		Flores											
+297	145	Z	F	Manassas	VA	US	13:31.1	07:10.2	17:55	25	26.5	129	Female
+		Zuley											
+		Garcia											
+298	330	C	M	Waynesboro	VA	US	07:13.0	07:13.0	17:55	23	23.3	169	Male
+		Cesar											
+		Ruiz											
+299	393	H	F	Newport News	VA	US	07:16.0	07:16.0	17:56	23	26.5	130	Female
+		Hilda											
+		Velasquez											
+300	317	J	F	Waynesboro	VA	US	13:48.9	07:24.4	17:58	16	27.3	131	Female
+		Jasmine											
+		Redifer											
+301	409	J	M	Grottoes	VA	US	13:49.2	07:25.2	17:59	17	23.4	170	Male
+		Jaxon											
+		Wilfong											
+302	410	Kennth	M	Waynesboro	VA	US	13:51.2	07:27.4	17:59	45	25.3	171	Male
+		Wilfong											
+303	394	K	M	Waynesboro	VA	US	18:56.7	07:31.1	18:00	27	23.2	172	Male
+		Kevin											
+		Via											
+304	325	A	F			US	14:01.3	07:41.9	18:03	52	30.2	132	Female
+		Anonymous											
+		Participant											
+305	263	M	M	Charlottesville	VA	US	14:53.6	08:37.5	18:18	39	23.7	173	Male
+		Mark											
+		Morris											
+306	346	T	M	Ruckersville	VA	US	15:01.8	08:46.5	18:20	46	25	174	Male
+		Thomas											
+		Shifflett											
+307	233	T	F	Winchester	VA	US	15:02.2	08:53.4	18:22	56	31.1	133	Female
+		Tracy											
+		Link											
+308	123	A	F	Lyndhurst	VA	US	15:19.0	09:04.2	18:25	27	25.8	134	Female
+		Ashley											
+		Edwards											
+309	124	D	M	Lyndhurst	VA	US	15:20.1	09:05.5	18:25	28	22.6	175	Male
+		Danyl											
+		Edwards											
+310	93	A	F	Waynesboro	VA	US	20:35.2	09:12.3	18:27	39	26.4	135	Female
+		Amanda											
+		Craig											
+311	125	D	M	Lyndhurst	VA	US	15:27.7	09:13.8	18:28	47	25	176	Male
+		Dennis											
+		Edwards Jr.											
+312	94	K	F	Lanexa	VA	US	20:37.0	09:14.2	18:28	59	32	136	Female
+		Kate											
+		Craig											
+313	95	S	M	Waynesboro	VA	US	20:37.5	09:14.5	18:28	32	22.6	177	Male
+		Samuel											
+		Craig											
+314	72	E	F	Fishersville	VA	US	21:14.0	09:47.2	18:37	23	25.5	137	Female
+		Emily											
+		Canterbury											
+315	89	Lori	F	Fishersville	VA	US	21:14.6	09:48.0	18:37	47	27.7	138	Female
+		Conyers											
+316	92	E	F	Fishersville	VA	US	21:14.6	09:48.4	18:37	24	25.5	139	Female
+		Elizabeth											
+		Couch											
+317	272	T	F	Staunton	VA	US	21:20.2	09:58.9	18:40	37	25.8	140	Female
+		Theresa											
+		Murphy											
+318	20	M	F	Staunton	VA	US	21:46.0	10:24.4	18:47	42	26.4	141	Female
+		Margaret											
+		Bain											
+319	259	M	F	Staunton	VA	US	21:48.6	10:26.9	18:47	44	26.8	142	Female
+		Melinda											
+		Melady											
+320	119	A	F			US	21:49.5	10:27.8	18:47	50	28.4	143	Female
+		Anonymous											
+		Participant											
+321	127	D	F	Fort Defiance	VA	US	22:24.4	10:56.4	18:55	33	25.2	144	Female
+		Danielle											
+		Ellis											
+322	79	J	M	Fort Defiance	VA	US	22:25.0	10:56.9	18:55	31	22.1	178	Male
+		Jacob											
+		Childress											
+323	11	J	F	Weyers Cave	VA	US	22:25.0	10:57.2	18:55	31	25.1	145	Female
+		Jessica											
+		Arey											
+324	433	R	M	Fishersville	VA	US	22:25.3	10:57.5	18:55	31	22.1	179	Male
+		Richard											
+		Doyle											
+325	12	Logan	M	Weyers Cave	VA	US	22:25.6	10:58.5	18:56	31	22.1	180	Male
+		Arey											
+326	383	D	M	Staunton	VA	US	18:02.0	11:47.8	19:09	52	25.1	181	Male
+		Douglas											
+		Thompson											
+327	251	K	F	Waynesboro	VA	US	18:02.3	11:48.1	19:09	30	24.8	146	Female
+		Kasie											
+		McCormick											
+328	347	A	F	Staunton	VA	US	24:01.7	12:34.7	19:21	26	24.5	147	Female
+		Anna											
+		Simmons											
+329	348	J	M	Staunton	VA	US	24:02.3	12:35.1	19:21	33	21.7	182	Male
+		Josh											
+		Simmons											
+330	158	T	F	Staunton	VA	US	24:02.5	12:35.9	19:22	21	24.5	148	Female
+		Tori											
+		Guertler											
+331	58	S	F	Charlottesville	VA	US	18:59.4	12:39.8	19:23	52	28.1	149	Female
+		Susan											
+		Bucci											
+332	269	M	F	Charlottesville	VA	US	19:00.8	12:40.5	19:23	37	24.9	150	Female
+		Marcela											
+		Munoz											
+333	131	M	F	Staunton	VA	US	18:52.4	12:41.1	19:23	31	24.5	151	Female
+		Marisela											
+		Figueroa											
+334	436	j	F	Glengary	WV	US	19:00.3	12:41.3	19:23	42	25.6	152	Female
+		jamie											
+		overstreet											
+335	159	A	F	Charlottesville	VA	US	19:02.0	12:41.5	19:23	64	32.5	153	Female
+		Ann											
+		Hague											
+336	177	G	F	Mount Solon	VA	US	18:57.3	12:46.1	19:24	24	24.5	154	Female
+		Guadalupe											
+		Hernandez											
+337	290	M	F	Verona	VA	US	19:04.8	12:53.6	19:26	56	29.4	155	Female
+		Marsha											
+		Pennington											
+338	356	N	M	Keezletown	VA	US	24:31.0	13:01.8	19:28	45	23.3	183	Male
+		Nick											
+		Skaflen											
+339	358	T	M	Keezletown	VA	US	24:40.8	13:11.7	19:31	15	22.1	184	Male
+		Theo											
+		Skaflen											
+340	353	A	F	Keezletown	VA	US	24:55.8	13:26.9	19:35	42	25.3	156	Female
+		Andrea											
+		Skaflen											
+341	355	M	M	Keezletown	VA	US	25:40.2	14:10.5	19:47	41	22.3	185	Male
+		Marcus											
+		Skaflen											
+342	122	J	F	Waynesboro	VA	US	25:56.1	14:27.1	19:51	38	24.4	157	Female
+		Jen											
+		Eccles											
+343	222	K	F	Waynesboro	VA	US	20:37.9	14:31.1	19:52	32	23.9	158	Female
+		Kristy											
+		Lautenbach											
+344	211	L	F	Evington	VA	US	26:07.0	14:42.6	19:55	33	23.9	159	Female
+		Lauren											
+		Laconi											
+345	426	G	F	Waynesboro	VA	US	26:07.5	14:43.0	19:55	28	23.8	160	Female
+		Grace											
+		Zimmerman											
+346	135	A	F	Mc Gaheysville	VA	US	21:25.8	15:16.9	20:05	35	23.9	161	Female
+		Angel											
+		Fitzgerald											
+347	100	C	F	Churchville	VA	US	21:26.4	15:17.5	20:05	45	25.3	162	Female
+		Coral											
+		Daniels											
+348	333	S	F	Weyers Cave	VA	US	21:26.8	15:18.3	20:05	25	23.6	163	Female
+		Samantha											
+		Sandoval											
+349	308	H	F	Staunton	VA	US	22:21.4	16:14.8	20:20	40	24.1	164	Female
+		Holly											
+		Pritt											
+350	314	P	F	Staunton	VA	US	22:21.8	16:15.1	20:20	41	24.2	165	Female
+		Pamela											
+		Rankin											
+351	364	M	M	Charlottesville	VA	US	28:29.6	17:01.9	20:32	58	24.6	186	Male
+		Michael											
+		Smith											
+352	365	V	F	Charlottesville	VA	US	28:30.4	17:02.6	20:33	17	23.5	166	Female
+		Venetia											
+		Smith											
+353	36	C	M	Staunton	VA	US	24:07.8	17:50.2	20:45	32	20.1	187	Male
+		Cory											
+		Blackburn											
+354	37	E	F	Staunton	VA	US	24:06.9	17:50.4	20:45	32	22.9	167	Female
+		Elizabeth											
+		Blackburn											
+355	103	B	F	Edinburg	VA	US	18:14.3	18:14.3	20:52	22	22.8	168	Female
+		Bethany											
+		Day											
+356	245	H	F	Yorktown	VA	US	25:02.5	18:56.5	21:03	46	24.3	169	Female
+		Heather											
+		Marshall											
+357	221	T	F	Yorktown	VA	US	25:02.8	18:57.4	21:03	43	23.7	170	Female
+		Tracy											
+		Latsch											
+358	19	L	F	Stuarts Draft	VA	US	30:45.2	19:23.4	21:10	56	26.9	171	Female
+		Linda											
+		Bailes											
+359	219	H	F	Crozet	VA	US	30:45.9	19:23.9	21:10	41	23.2	172	Female
+		Heather											
+		Laramy											
+360	345	S	F	Stuarts Draft	VA	US	25:47.0	19:37.7	21:14	36	22.6	173	Female
+		Sabrina											
+		Shifflett											
+361	417	j	M	Staunton	VA	US	25:48.6	19:38.9	21:14	45	21.4	188	Male
+		jeremy											
+		wood											
+362	289	L	F	Waynesboro	VA	US	25:48.2	19:39.0	21:14	38	22.8	174	Female
+		Lindsey											
+		Payne											
+363	110	R	M	Staunton	VA	US	25:49.8	19:39.9	21:15	38	20.3	189	Male
+		Russell											
+		Diehl											
+364	271	J	F	Buckingham	VA	US	26:24.5	20:13.8	21:24	42	23.2	175	Female
+		Jackie											
+		Murphy											
+365	207	K	F	Buckingham	VA	US	26:25.4	20:15.1	21:24	39	22.7	176	Female
+		Kara											
+		Kitchen											
+366	373	T	F	Afton	VA	US	31:46.1	20:22.5	21:26	53	25.7	177	Female
+		Teresa											
+		Stevens											
+367	68	M	F	Afton	VA	US	31:50.6	20:26.8	21:27	49	24.6	178	Female
+		Martha											
+		Campbell											
+368	146	R	F	Bumpass	VA	US	31:50.6	20:27.5	21:27	53	25.7	179	Female
+		Renatea											
+		Gaumer											
+369	153	M	F	Waynesboro	VA	US	27:01.6	20:40.5	21:31	17	22.4	180	Female
+		Madison											
+		Graham											
+370	152	C	F	Waynesboro	VA	US	27:46.4	21:25.3	21:43	43	23	181	Female
+		Cara											
+		Graham											
+371	191	R	F	Fishersville	VA	US	28:02.4	21:41.7	21:47	34	21.9	182	Female
+		Rachel											
+		Hutchins											
+372	205	M	F	Bumpass	VA	US	28:02.2	21:41.9	21:47	38	22.2	183	Female
+		Molly											
+		Kirk											
+373	198	T	M	Gum Spring	VA	US	28:07.8	21:50.8	21:50	26	19.1	190	Male
+		Tristan											
+		Jones											
+374	96	a	F	Charlottesville	VA	US	28:14.7	21:57.7	21:51	55	25.8	184	Female
+		anne											
+		Croonquist											
+375	226	K	F	Buena Vista	VA	US	34:02.2	22:38.1	22:02	13	23.5	185	Female
+		Kyra											
+		Lee											
+376	223	A	F	Buena Vista	VA	US	34:04.9	22:40.8	22:03	17	21.9	186	Female
+		Amber											
+		Lee											
+377	225	J	M	Buena Vista	VA	US	34:06.5	22:41.8	22:03	42	20.2	191	Male
+		Jared											
+		Lee											
+378	224	H	F	Buena Vista	VA	US	34:09.7	22:44.8	22:04	44	22.8	187	Female
+		Heather											
+		Lee											
+379	248	L	M	Waynesboro	VA	US	38:34.0	27:02.2	23:13	12	20	192	Male
+		L.											
+		Martin											
+380	201	H	M	Waynesboro	VA	US	38:37.0	27:05.2	23:13	55	21.2	193	Male
+		Harley											
+		Kennedy											
+381	400	M	F	Waynesboro	VA	US	38:41.1	27:07.5	23:14	55	24.3	188	Female
+		Marie											
+		Walker											
+382	67	A	M	Stuarts Draft	VA	US	40:16.1	28:51.0	23:42	22	17.6	194	Male
+		Andrew											
+		Campbell											
+383	181	K	F	Buena Vista	VA	US	40:15.7	28:51.1	23:42	34	20.2	189	Female
+		Kate											
+		Hinderer											
+384	14	J	M	Lexington	VA	US	40:34.6	29:09.3	23:46	61	21.8	195	Male
+		JOHN											
+		ARPIN											
+385	13	C	F	Lexington	VA	US	40:35.6	29:11.1	23:47	63	26.2	190	Female
+		Cecilia											
+		Arpin											
+386	377	H	F	Charlottesville	VA	US	31:33.6	31:16.1	24:20:00	51	22.2	191	Female
+		Hope											
+		Szczyglinski											
+387	80	L	F	Charlottesville	VA	US	31:36.0	31:19.1	24:21:00	36	19.7	192	Female
+		Lindsay											
+		Clark											

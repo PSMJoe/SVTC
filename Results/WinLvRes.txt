@@ -1,0 +1,505 @@
+https://runsignup.com/Race/Results/41177#resultSetId-301169;perpage:5000													
+2/12/2022		Wine Lovers 5k Results.		"Cardinal Point Vineyard, Afton VA."									
+Place	Bib	Name	Gen	City	State	Country	Clock	Chip	Pace	Age	Age	Div	Division
+							Time	Time			%	Place	
+1	108	C	F	Charlottesville	VA	US	17:34.0	17:33.1	5:39	32	84	1	Overall Female
+		Carter											
+		Norbo											
+2	59	C	M	Charlottesville	VA	US	17:42.8	17:41.7	5:42	34	73.4	1	Overall Male
+		Cassidy											
+		Girvin											
+3	89	A	F	Charlottesville	VA	US	17:51.9	17:51.0	5:45	36	83.3	2	Overall Female
+		Ann										1	F3039
+		Mazur											
+4	56	H	M	Charlottesville	VA	US	18:40.6	18:39.7	6:00	60	85	2	Overall Male
+		Hernan										1	M6069
+		Garbini											
+5	55	N	F	Bridgewater	VA	US	20:07.6	20:05.9	6:28	33	73.5	3	Overall Female
+		Nelle										2	F3039
+		Fox											
+6	101	A	F	charlottesville	VA	US	20:12.2	20:10.1	6:30	33	73.2	4	Overall Female
+		Alexandra										3	F3039
+		Monson											
+7	134	C	F	Rockingham	VA	US	20:44.2	20:42.5	6:40	40	73.1	5	Overall Female
+		Caroline										1	F4049
+		Sanders											
+8	103	L	F	Earlysville	VA	US	21:36.9	21:33.1	6:56	37	69.3	6	Overall Female
+		Libby										4	F3039
+		Moore											
+9	183	A	M	Keswick	VA	US	22:08.9	21:47.6	7:01	34	59.6	3	Overall Male
+		Andrew										1	M3039
+		Polemi											
+10	177	J	M	Louisa	VA	US	22:09.5	21:48.3	7:01	34	59.5	4	Overall Male
+		James										2	M3039
+		Saul											
+11	148	A	M	Nellysford	VA	US	21:51.9	21:50.7	7:02	42	62.9	5	Overall Male
+		Adam										1	M4049
+		Sullivan											
+12	39	K	F	Midlothian	VA	US	22:18.2	22:16.0	7:10	44	69.8	7	Overall Female
+		Kerry										2	F4049
+		Dixon											
+13	176	T	M	Charlottesville	VA	US	23:07.1	22:45.4	7:19	23	56.5	6	Overall Male
+		Tyler										1	M2129
+		Smith											
+14	27	A	F	Forest	VA	US	23:29.2	23:25.5	7:32	40	64.6	8	Overall Female
+		Amanda										3	F4049
+		Cocke											
+15	112	L	F	Forest	VA	US	23:29.5	23:26.4	7:33	37	63.7	9	Overall Female
+		Lindsay										5	F3039
+		Painter											
+16	133	J	M	Verona	VA	US	23:32.7	23:28.3	7:33	40	57.7	7	Overall Male
+		Jonathan										2	M4049
+		Salmons											
+17	124	T	M	Afton	VA	US	23:55.9	23:50.2	7:40	66	70.2	8	Overall Male
+		Tom										2	M6069
+		Randolph											
+18	117	J	F	Charlottesville	VA	US	25:00.8	24:56.4	8:02	26	59.1	10	Overall Female
+		Juliana										1	F2129
+		Piacentini											
+19	8	Dan	M	Midlothian	VA	US	25:08.8	24:59.6	8:03	47	57.1	9	Overall Male
+		Bayliss										3	M4049
+20	43	P	M	Charlottesville	VA	US	25:12.8	25:00.9	8:03	31	51.4	10	Overall Male
+		Patrick										3	M3039
+		Eagan											
+21	105	M	F	Rockingham	VA	US	25:41.9	25:18.6	8:09	30	58.2	11	Overall Female
+		Margaret										6	F3039
+		Morton											
+22	4	K	F	Glen Allen	VA	US	25:28.2	25:26.1	8:11	28	57.9	12	Overall Female
+		Katterina										2	F2129
+		Babbitt											
+23	73	A	F	Charlottesville	VA	US	25:59.7	25:49.3	8:19	30	57.1	13	Overall Female
+		Anika										7	F3039
+		Kempe											
+24	46	L	M	Richmond	VA	US	26:03.4	25:53.0	8:20	15	51.4	11	Overall Male
+		Luke										1	M1215
+		Eiben											
+25	141	G	M	Forest	VA	US	25:59.2	25:55.7	8:21	61	61.8	12	Overall Male
+		Greg										3	M6069
+		Slominski											
+26	38	S	M	AFTON	VA	US	26:15.8	26:12.3	8:26	9	61.4	13	Overall Male
+		S.										1	M811
+		DeVries											
+27	60	W	M	Middletown	DE	US	26:38.7	26:26.5	8:31	41	51.6	14	Overall Male
+		Warren										4	M4049
+		Go											
+28	86	K	M	Piney River	VA	US	26:36.3	26:30.3	8:32	61	60.4	15	Overall Male
+		Keith										4	M6069
+		Mattox											
+29	33	A	M	Waynesboro	VA	US	26:46.3	26:34.4	8:33	55	57.3	16	Overall Male
+		Andy										1	M5059
+		Cummings											
+30	179	F	F	Harrisonburg	VA	US	26:59.2	26:52.7	8:39	37	55.6	14	Overall Female
+		Flo										8	F3039
+		Rivas											
+31	66	E	F	Earlysville	VA	US	27:12.7	27:08.3	8:44	67	74.5	15	Overall Female
+		Eleni										1	F6069
+		Heeschen											
+32	138	J	F	Waynesboro	VA	US	27:32.5	27:08.5	8:44	30	54.3	16	Overall Female
+		Jennifer										9	F3039
+		Shelnut											
+33	53	B	M	Afton	VA	US	27:22.9	27:12.9	8:46	41	50.1	17	Overall Male
+		Benjamin										5	M4049
+		Floyd											
+34	75	H	F	Lynchburg	VA	US	27:21.0	27:14.1	8:46	44	57.1	17	Overall Female
+		Holly										4	F4049
+		Kennedy											
+35	123	A	F	Afton	VA	US	27:27.7	27:22.2	8:49	55	63.7	18	Overall Female
+		Amy										1	F5059
+		Randolph											
+36	79	J	F	Elkton	VA	US	27:35.1	27:26.8	8:50	26	53.7	19	Overall Female
+		Jessica										3	F2129
+		Lam											
+37	185	L	F	Mt. Crawford	VA	US	27:34.9	27:29.4	8:51	32	53.7	20	Overall Female
+		Lauren										10	F3039
+		Simmers											
+38	2	CORRY	F	FABER	VA	US	27:34.4	27:29.7	8:51	52	61.3	21	Overall Female
+		ANDREWS										2	F5059
+39	42	T	M	Charlottesville	VA	US	27:32.3	27:30.7	8:51	72	65.1	18	Overall Male
+		Tom										1	M70+
+		Duffey											
+40	7	M	M	Lyndhurst	VA	US	27:44.3	27:33.5	8:52	63	59.1	19	Overall Male
+		Michael										5	M6069
+		Barrett											
+41	139	N	M	Waynesboro	VA	US	28:06.6	27:37.3	8:53	31	46.6	20	Overall Male
+		Nicholas										4	M3039
+		Shelnut											
+42	85	T	F	Crozet	VA	US	27:56.6	27:51.9	8:58	29	52.9	22	Overall Female
+		Taygra										4	F2129
+		Longstaff											
+43	107	M	F	Crozet	VA	US	27:57.0	27:52.1	8:58	30	52.9	23	Overall Female
+		Mackenzie										11	F3039
+		Nelson											
+44	54	C	F	Afton	VA	US	28:01.8	27:52.3	8:58	41	54.6	24	Overall Female
+		Casey										5	F4049
+		Floyd											
+45	17	E	M	Stuarts Draft	VA	US	28:14.1	27:56.2	9:00	31	46.1	21	Overall Male
+		Eric										5	M3039
+		Butler											
+46	142	T	M	Charlottesville	VA	US	28:08.7	27:59.4	9:01	31	46	22	Overall Male
+		Taylor										6	M3039
+		Smith											
+47	48	M	F	Mc Gaheysville	VA	US	28:23.0	28:16.6	9:06	36	52.6	25	Overall Female
+		Moriah										12	F3039
+		Fallon											
+48	92	J	F	Alexandria	VA	US	28:27.9	28:16.9	9:06	43	54.6	26	Overall Female
+		Juliana										6	F4049
+		McGlosson											
+49	77	S	F	Waynesboro	VA	US	28:38.2	28:21.4	9:08	65	69.5	27	Overall Female
+		Sue										2	F6069
+		Krzastek											
+50	65	S	M	Salem	VA	US	28:28.9	28:21.5	9:08	67	59.6	23	Overall Male
+		Steven										6	M6069
+		Harris											
+51	156	B	M	Charlottesville	VA	US	28:49.8	28:23.6	9:08	21	45.3	24	Overall Male
+		Ben										2	M2129
+		Trombetta											
+52	158	I	F	Charlottesville	VA	US	28:50.0	28:24.1	9:08	21	51.9	28	Overall Female
+		Isabel										5	F2129
+		Ullman											
+53	98	D	M	Charlottesville	VA	US	28:51.1	28:25.2	9:09	21	45.2	25	Overall Male
+		David										3	M2129
+		Miron											
+54	67	C	M	Charlottesville	VA	US	28:51.3	28:25.5	9:09	22	45.2	26	Overall Male
+		Connor										4	M2129
+		Hofenbitzer											
+55	153	K	F	Henrico	VA	US	28:29.2	28:26.6	9:09	28	51.8	29	Overall Female
+		Katie										6	F2129
+		Thompson											
+56	34	D	F	Richmond	VA	US	28:30.5	28:28.1	9:10	33	51.9	30	Overall Female
+		Deanna										13	F3039
+		Bronder											
+57	94	A	F	Charlottesville	VA	US	28:37.0	28:33.7	9:12	28	51.6	31	Overall Female
+		Andrea										7	F2129
+		Merchak											
+58	140	K	F	Palmyra	VA	US	29:02.2	28:47.9	9:16	46	54.9	32	Overall Female
+		Kelly										7	F4049
+		Sizemore											
+59	82	L	F	Lynchburg	VA	US	29:22.1	29:05.1	9:22	27	50.7	33	Overall Female
+		Lauryn										8	F2129
+		Leach											
+60	172	B	M	Alexandria	VA	US	29:27.7	29:16.5	9:25	46	48.3	27	Overall Male
+		Bill										6	M4049
+		Young											
+61	184	D	F	Keswick	VA	US	29:49.6	29:21.9	9:27	33	50.3	34	Overall Female
+		Danae										14	F3039
+		Polemi											
+62	182	P	M	Afton	VA	US	29:40.3	29:31.4	9:30	37	44.8	28	Overall Male
+		Paul										7	M3039
+		Kirsch											
+63	114	B	M	LEXINGTON	VA	US	29:50.9	29:33.5	9:31	30	43.5	29	Overall Male
+		Blain										8	M3039
+		Patterson											
+64	129	R	F	Durham	NC	US	29:56.0	29:43.8	9:34	32	49.6	35	Overall Female
+		Renee										15	F3039
+		Ryberg											
+65	120	D	M	Lexington	VA	US	30:04.1	29:46.7	9:35	28	43.2	30	Overall Male
+		Daniel										5	M2129
+		Quevedo											
+66	81	M	F	Barboursville	VA	US	30:04.6	29:48.4	9:36	26	49.4	36	Overall Female
+		Mariah										9	F2129
+		Lang											
+67	125	J	F	Charlottesville	VA	US	30:04.8	29:48.7	9:36	26	49.4	37	Overall Female
+		Jessica										10	F2129
+		Ream											
+68	30	G	M	Lexington	VA	US	30:07.8	29:49.0	9:36	44	46.8	31	Overall Male
+		Geoff										7	M4049
+		Cox											
+69	160	L	F	Fishersville	VA	US	30:07.1	29:52.2	9:37	59	61.2	38	Overall Female
+		Leanne										3	F5059
+		Vigliano											
+70	115	S	F	Lexington	VA	US	30:10.8	29:53.6	9:37	28	49.3	39	Overall Female
+		Sarah										11	F2129
+		Patterson											
+71	29	C	F	Radford	VA	US	30:33.6	30:07.9	9:42	34	49.1	40	Overall Female
+		Catherine										16	F3039
+		Cotrupi											
+72	152	D	M	Waynesboro	VA	US	30:51.4	30:22.7	9:47	49	47.7	32	Overall Male
+		Donavon										8	M4049
+		Thompson											
+73	5	P	F	Middletown	DE	US	30:36.6	30:24.3	9:47	41	50	41	Overall Female
+		Patricia										8	F4049
+		Baile											
+74	28	M	F	Henrico	VA	US	30:41.9	30:30.1	9:49	36	48.7	42	Overall Female
+		Michelle										17	F3039
+		Coffey											
+75	68	V	F	Crozet	VA	US	31:05.3	30:46.1	9:54	65	64	43	Overall Female
+		Victoria										3	F6069
+		Johnston											
+76	144	S	F	Stuarts Draft	VA	US	30:54.1	30:46.6	9:54	63	62.4	44	Overall Female
+		Sharon										4	F6069
+		Spalding											
+77	127	B	F	Louisa	VA	US	31:25.9	31:04.1	10:00	42	49.3	45	Overall Female
+		Brianna										9	F4049
+		Rosson											
+78	12	E	F	Charlottesville	VA	US	31:31.8	31:06.3	10:01	21	47.4	46	Overall Female
+		Elena										12	F2129
+		Bosack											
+79	175	Z	F	Charlottesville	VA	US	31:32.4	31:08.1	10:01	22	47.3	47	Overall Female
+		Zohar										13	F2129
+		Ziff											
+80	11	A	F	Huntingdon	PA	US	31:26.8	31:11.9	10:03	30	47.2	48	Overall Female
+		Alisha										18	F3039
+		Boerstler											
+81	113	E	F	Huntingdon	PA	US	31:27.8	31:13.4	10:03	33	47.3	49	Overall Female
+		Erin										19	F3039
+		Paschal											
+82	186	C	F	Minersville	PA	US	31:26.6	31:26.6	10:07	32	46.9	50	Overall Female
+		Caitlin										20	F3039
+		Murphy											
+83	97	C	F	Henrico	VA	US	31:35.7	31:30.5	10:08	62	60.1	51	Overall Female
+		Carol										5	F6069
+		Miranda											
+84	14	A	F	Charlottesville	VA	US	31:38.7	31:33.1	10:09	25	46.7	52	Overall Female
+		Alexis										14	F2129
+		Brown											
+85	70	R	M	Charlottesville	VA	US	31:57.1	31:35.4	10:10	71	55.9	33	Overall Male
+		Raymond										2	M70+
+		Kannapell											
+86	40	K	F	Henrico	VA	US	31:53.9	31:49.2	10:14	56	55.4	53	Overall Female
+		Karen										4	F5059
+		Dolecki											
+87	104	J	F	Morrisville	NC	US	32:00.2	31:54.3	10:16	32	46.2	54	Overall Female
+		Joy										21	F3039
+		Morgan											
+88	181	L	F	Afton	VA	US	32:18.3	32:09.8	10:21	39	46.8	55	Overall Female
+		Lorissa										22	F3039
+		Kirsch											
+89	132	K	F	Glen Allen	VA	US	32:16.1	32:10.6	10:21	55	54.2	56	Overall Female
+		Kim										5	F5059
+		Sale											
+90	3	J	F	Charlottesville	VA	US	32:20.8	32:13.6	10:22	38	46.5	57	Overall Female
+		Jennifer										23	F3039
+		Andrews											
+91	35	K	M	Afton	VA	US	32:31.9	32:23.0	10:25	40	41.8	34	Overall Male
+		Kevin										9	M4049
+		Davis											
+92	128	A	F			US	32:57.7	32:30.0	10:28	37	45.9	58	Overall Female
+		Anonymous										24	F3039
+		Participant											
+93	111	A	M			US	32:58.0	32:30.8	10:28	40	41.6	35	Overall Male
+		Anonymous										10	M4049
+		Participant											
+94	72	K	F	Charlottesville	VA	US	32:43.6	32:38.2	10:30	33	45.2	59	Overall Female
+		Kelsie D										25	F3039
+		Kelly											
+95	162	A	F	Rockville	VA	US	33:16.6	32:48.2	10:34	41	46.4	60	Overall Female
+		Angela										10	F4049
+		Ware											
+96	180	E	M	Harrisonburg	VA	US	33:01.2	32:53.9	10:35	10	46.7	36	Overall Male
+		E.										2	M811
+		Paramo											
+97	6	J	F	Midlothian	VA	US	33:26.1	33:00.4	10:37	34	44.8	61	Overall Female
+		Jennifer										26	F3039
+		Barlow											
+98	80	M	F	Elkton	VA	US	33:10.4	33:01.6	10:38	50	49.9	62	Overall Female
+		Melissa										6	F5059
+		Lam											
+99	173	K	F	Mechanicsville	VA	US	33:19.5	33:13.4	10:42	22	44.3	63	Overall Female
+		Kelsey										15	F2129
+		Young											
+100	63	M	M	Waynesboro	VA	US	33:56.7	33:48.2	10:53	59	46.5	37	Overall Male
+		Michael										2	M5059
+		Groah											
+101	26	M	F	Stuarts Draft	VA	US	34:05.9	33:52.0	10:54	40	44.7	64	Overall Female
+		Meghan										11	F4049
+		Clark											
+102	159	M	F	Staunton	VA	US	34:05.6	33:52.1	10:54	36	43.9	65	Overall Female
+		Marian										27	F3039
+		Updike											
+103	62	A	F	Churchville	VA	US	34:06.5	33:53.0	10:54	45	46.3	66	Overall Female
+		Angela										12	F4049
+		Grazul											
+104	74	P	M	Mercersburg	PA	US	34:21.3	34:09.5	11:00	66	49	38	Overall Male
+		Peter										7	M6069
+		Kempe											
+105	44	L	F	Mercersburg	PA	US	34:21.3	34:09.9	11:00	44	45.5	67	Overall Female
+		Lena										13	F4049
+		Eckstine											
+106	174	M	M	Midlothian	VA	US	35:05.9	34:39.6	11:09	36	37.9	39	Overall Male
+		Michael										9	M3039
+		Zielinski											
+107	37	G	F	AFTON	VA	US	34:53.0	34:41.8	11:10	51	48	68	Overall Female
+		Ginny										7	F5059
+		DeVries											
+108	13	A	F	Charlottesville	VA	US	35:30.6	35:13.2	11:20	36	42.2	69	Overall Female
+		Amber										28	F3039
+		Boyd											
+109	36	M	F	Afton	VA	US	35:29.6	35:20.4	11:23	39	42.6	70	Overall Female
+		Michelle										29	F3039
+		Davis											
+110	118	A	F	Huddleston	VA	US	36:04.4	35:53.2	11:33	58	50.3	71	Overall Female
+		Angelia										8	F5059
+		Pippin											
+111	161	C	F	Charlottesville	VA	US	36:28.2	36:17.2	11:41	31	40.6	72	Overall Female
+		Courtney										30	F3039
+		Walker											
+112	32	P	F	Bedford	VA	US	36:45.8	36:35.4	11:47	60	50.6	73	Overall Female
+		Pamela										6	F6069
+		Crawford											
+113	171	G	F	Staunton	VA	US	38:01.5	37:19.0	12:01	32	39.5	74	Overall Female
+		Gail										31	F3039
+		Winsor											
+114	69	M	F	Charlottesville	VA	US	39:35.7	39:02.0	12:34	39	38.6	75	Overall Female
+		Meena										32	F3039
+		Kannan											
+115	150	C	F	Palmyra	VA	US	39:45.5	39:29.0	12:43	36	37.7	76	Overall Female
+		Cara										33	F3039
+		Tabor											
+116	151	C	F	Churchville	VA	US	39:46.3	39:30.4	12:43	47	40.4	77	Overall Female
+		Christy										14	F4049
+		Tabor											
+117	61	T	M	Morrisville	NC	US	39:55.5	39:48.9	12:49	31	32.3	40	Overall Male
+		Tony										10	M3039
+		Godwin Jr											
+118	93	P	F	Stuarts Draft	VA	US	40:01.8	39:54.0	12:51	62	47.5	78	Overall Female
+		Pam										7	F6069
+		McGown											
+119	88	N	F	Washington	DC	US	40:26.6	39:54.6	12:51	46	39.6	79	Overall Female
+		Nicole										15	F4049
+		Mayerhauser											
+120	149	A	F	Faber	VA	US	40:27.8	39:56.7	12:51	38	37.5	80	Overall Female
+		Amy										34	F3039
+		Swope											
+121	52	K	F	Crozet	VA	US	40:29.7	40:05.3	12:54	45	39.1	81	Overall Female
+		Kathleen										16	F4049
+		Ferraiolo											
+122	106	D	F	Crozet	VA	US	40:29.0	40:05.3	12:54	35	37	82	Overall Female
+		Deirdre										35	F3039
+		Munnelly											
+123	122	J	F	Charlottesville	VA	US	40:29.0	40:05.5	12:54	47	39.8	83	Overall Female
+		Janette										17	F4049
+		Quinn											
+124	20	D	F	Palmyra	VA	US	40:43.1	40:20.8	12:59	42	38	84	Overall Female
+		Diana										18	F4049
+		Calvo											
+125	121	S	F	Lexington	VA	US	40:50.1	40:30.6	13:02	27	36.4	85	Overall Female
+		Shannon										16	F2129
+		Quevedo											
+126	146	T	F	Afton	VA	US	41:06.9	40:51.6	13:09	53	41.7	86	Overall Female
+		Teresa										9	F5059
+		Stevens											
+127	58	R	F	Bumpass	VA	US	41:08.1	40:52.9	13:10	53	41.7	87	Overall Female
+		Renatea										10	F5059
+		Gaumer											
+128	41	J	F	Charlottesville	VA	US	41:31.4	41:11.2	13:15	71	51.9	88	Overall Female
+		Jane										1	Female 70+
+		Duffey											
+129	167	R	F	LEXINGTON	VA	US	41:30.7	41:12.3	13:16	38	36.4	89	Overall Female
+		Robyn										36	F3039
+		Wilhelm											
+130	9	P	F	Charlottesville	VA	US	41:31.0	41:20.0	13:18	43	37.3	90	Overall Female
+		Polly										19	F4049
+		Beckington											
+131	99	K	F	Mount Sidney	VA	US	41:48.8	41:23.6	13:19	46	38.2	91	Overall Female
+		Kim										20	F4049
+		Mitchell											
+132	100	R	M	Mount Sidney	VA	US	41:49.5	41:24.7	13:20	47	34.5	41	Overall Male
+		Ryan										11	M4049
+		Mitchell											
+133	147	P	F	Orange	VA	US	42:10.7	41:56.0	13:30	68	48.9	92	Overall Female
+		Pamela										8	F6069
+		Stratos											
+134	135	S	F	Weyers Cave	VA	US	42:24.4	42:09.3	13:34	25	35	93	Overall Female
+		Samantha										17	F2129
+		Sandoval											
+135	145	Erica	F	Keswick	VA	US	42:42.5	42:14.7	13:36	47	37.8	94	Overall Female
+		Stevens										21	F4049
+136	31	M	F	Afton	VA	US	43:28.0	43:14.2	13:55	52	39	95	Overall Female
+		Maria										11	F5059
+		Craig											
+137	25	M	F	Faber	VA	US	43:28.8	43:15.2	13:55	57	41.3	96	Overall Female
+		Margaret										12	F5059
+		Clair											
+138	24	G	F	Faber	VA	US	43:29.5	43:15.9	13:56	22	34.1	97	Overall Female
+		Grace										18	F2129
+		Clair											
+139	109	N	F	Altavista	VA	US	45:20.6	44:58.5	14:29	32	32.8	98	Overall Female
+		Nichole										37	F3039
+		Nuckols											
+140	95	M	F	Afton	VA	US	45:42.9	45:30.1	14:39	23	32.4	99	Overall Female
+		Maddie										19	F2129
+		Messier											
+141	22	M	F	Afton	VA	US	45:44.4	45:31.5	14:39	27	32.4	100	Overall Female
+		Madison										20	F2129
+		Carter											
+142	163	a	F	Charlottesville	VA	US	46:00.6	46:00.6	14:49	10	37.5	101	Overall Female
+		a.										1	F811
+		webb											
+143	164	C	M	Charlottesville	VA	US	46:01.9	46:01.9	14:49	38	29	42	Overall Male
+		Cameron										11	M3039
+		Webb											
+144	130	R	F	Frederick	MD	US	46:35.9	46:12.7	14:52	60	40	102	Overall Female
+		Roben										9	F6069
+		Ryberg											
+145	166	l	M	Charlottesville	VA	US	47:03.3	47:03.3	15:09	6	41.4	43	Overall Male
+		l.											
+		webb											
+146	45	L	M	Richmond	VA	US	47:43.8	47:14.3	15:12	49	30.7	44	Overall Male
+		Larry										12	M4049
+		Eiben											
+147	47	V	F	Richmond	VA	US	47:44.7	47:15.0	15:12	51	35.3	103	Overall Female
+		Virginia L										13	F5059
+		Eiben											
+148	143	D	M	Afton	VA	US	47:50.1	47:26.3	15:16	76	40.2	45	Overall Male
+		David A.										3	M70+
+		Snyder											
+149	165	l	F	Charlottesville	VA	US	47:43.5	47:43.5	15:22	39	31.5	104	Overall Female
+		leigh-ann										38	F3039
+		webb											
+150	87	B	F	Afton	VA	US	47:50.8	47:50.8	15:24	72	45.3	105	Overall Female
+		Barbara										2	Female 70+
+		Matysek											
+151	178	B	F	Gordonsville	VA	US	48:32.0	48:09.7	15:30	51	34.6	106	Overall Female
+		Beatrice										14	F5059
+		George											
+152	83	L	F	Paxinos	PA	US	49:09.1	48:48.6	15:43	57	36.6	107	Overall Female
+		Linda										15	F5059
+		Leach											
+153	119	J	M	Charlottesville	VA	US	50:49.6	50:30.1	16:15	29	25.4	46	Overall Male
+		Jack										6	M2129
+		Piunti											
+154	91	M	M	Charlottesville	VA	US	50:50.9	50:32.0	16:16	29	25.4	47	Overall Male
+		Mitchell										7	M2129
+		McGinty											
+155	155	J	F	Lexington	VA	US	51:02.7	50:40.0	16:18	37	29.5	108	Overall Female
+		Jennifer										39	F3039
+		Thurman											
+156	64	A	F	Charlottesville	VA	US	51:19.9	50:41.1	16:19	64	38.4	109	Overall Female
+		Ann										10	F6069
+		Hague											
+157	154	B	M	Lexington	VA	US	51:03.9	50:41.2	16:19	34	25.6	48	Overall Male
+		Ben										12	M3039
+		Thurman											
+158	18	L	F	Mooresville	NC	US	51:07.1	50:41.9	16:19	58	35.6	110	Overall Female
+		Linda										16	F5059
+		Butt											
+159	131	C	F	Charlottesville	VA	US	51:07.8	50:43.3	16:20	60	36.5	111	Overall Female
+		Carolyn										11	F6069
+		Saint											
+160	102	K	F	Ruckersville	VA	US	51:22.2	50:44.0	16:20	32	29.1	112	Overall Female
+		Korina										40	F3039
+		Montoya											
+161	19	R	F	Waynesboro	VA	US	52:08.5	51:47.9	16:40	30	28.4	113	Overall Female
+		Rebecca										41	F3039
+		Cain											
+162	1	J	F	Afton	VA	US	52:09.0	51:48.5	16:41	30	28.4	114	Overall Female
+		Jamie										42	F3039
+		Addington											
+163	170	A	M	Charlottesville	VA	US	53:52.6	53:34.0	17:14	56	28.6	49	Overall Male
+		Alison										3	M5059
+		Wilson											
+164	21	T	F	Charlottesville	VA	US	53:53.5	53:34.6	17:15	59	34.1	115	Overall Female
+		Tammie										17	F5059
+		Campbell											
+165	84	L	F	Mechanicsville	VA	US	53:58.8	53:38.0	17:16	46	29.5	116	Overall Female
+		Lesley										22	F4049
+		Lindsey											
+166	71	A	F	Mechanicsville	VA	US	53:59.1	53:38.2	17:16	56	32.9	117	Overall Female
+		Annette										18	F5059
+		Kelley											
+167	90	A	F			US	54:23.9	53:51.1	17:20	51	30.9	118	Overall Female
+		Anonymous										19	F5059
+		Participant											
+168	10	M	F	Lovingston	VA	US	54:24.1	53:51.5	17:20	56	32.7	119	Overall Female
+		Margaret										20	F5059
+		Bertram											
